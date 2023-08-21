@@ -1,0 +1,31 @@
+{
+  "name": "broadcast-channel-hb",
+  "version": "1.1.1",
+  "description": "BroadCastChannel Library for IBK, made by Hernan Bracamonte",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "url": "https://www.linkedin.com/in/hernanbracamonte/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbracamonte/broadcast-channel-ibk.git"
+  },
+  "keywords": [
+    "broadcast",
+    "channel",
+    "communication",
+    "inter-tab"
+  ],
+  "author": "Hernan Bracamonte Dev",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbracamonte/broadcast-channel-ibk/issues"
+  },
+  "homepage": "https://github.com/cbracamonte/broadcast-channel-ibk#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
